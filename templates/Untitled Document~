@@ -1,0 +1,6 @@
+{% extends "base.html" %}
+
+<section class="sidebar_plugin clearfix even serendipity_plugin_POPULARENTRIES" role="region">
+                <h3>Popular Entries</h3>
+                <div class="sidebar_content clearfix"><ul class="plainList"><li><a href="/archives/38-The-no-framework-PHP-MVC-framework.html" title="The no-framework PHP MVC framework">The no-framework PHP MVC framework</a> <span class="serendipitySideBarDate">(126)</span></li><li><a href="/archives/20-Kismet-on-the-Linksys-WRT54G.html" title="Kismet on the Linksys WRT54G">Kismet on the Linksys WRT54G</a> <span class="serendipitySideBarDate">(92)</span></li><li><a href="/archives/35-GeoCool!.html" title="GeoCool!">GeoCool!</a> <span class="serendipitySideBarDate">(55)</span></li><li><a href="/archives/22-IBM-Thinkpad-T42p.html" title="IBM Thinkpad T42p">IBM Thinkpad T42p</a> <span class="serendipitySideBarDate">(51)</span></li><li><a href="/archives/34-Flickr-API-Fun.html" title="Flickr API Fun">Flickr API Fun</a> <span class="serendipitySideBarDate">(37)</span></li></ul></div>
+    </section>
