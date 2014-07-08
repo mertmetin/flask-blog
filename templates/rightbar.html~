@@ -1,7 +1,0 @@
- {%block left%}
-<section class="sidebar_plugin clearfix odd serendipity_html_nugget_plugin" role="region">
-                <h3>Why a toys page?</h3>
-                <div class="sidebar_content clearfix">I love geeky toys and people are always asking me about them.  So this page is where I keep track of the gadgets that interest me.</div>
-    </section>
-{% endblock %}
-
